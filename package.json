@@ -1,22 +1,22 @@
 {
-  "name": "hw10_oop",
+  "name": "hw10",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nkhan14/HW10_OOP.git"
+    "url": "git+https://github.com/sbrunswig/hw10.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nkhan14/HW10_OOP/issues"
+    "url": "https://github.com/sbrunswig/hw10/issues"
   },
-  "homepage": "https://github.com/nkhan14/HW10_OOP#readme",
+  "homepage": "https://github.com/sbrunswig/hw10#readme",
   "devDependencies": {
     "jest": "^27.0.1"
   },
